@@ -52,7 +52,7 @@ Constructive alignment
 
 #### 2.2 Assessment and Delivery
 
-#### 2.3 GITHUB
+#### 2.3 GIT
 
 Summary of background, 
 
