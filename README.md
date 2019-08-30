@@ -1,68 +1,118 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
+description: Research Agenda
+---
 
-## Available Scripts
+# BIT CGI Research Week
 
-In the project directory, you can run:
+## Monday 26-08-2019
 
-### `npm start`
+### 9:30am - 11am
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* Research week Brainstorm 
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+![Brainstorming Board](.gitbook/assets/20190827_093646%20%281%29.jpg)
 
-### `npm test`
+### 11:15am-12:30pm
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Design board 
+* Stories constructed in to stories and phases 
 
-### `npm run build`
+![Stories ](.gitbook/assets/screen-shot-2019-08-27-at-11.05.21-am.png)
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 1:30pm-2:30pm
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+* Created a sprint backlog for Research week.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Sprint Backlog](.gitbook/assets/screen-shot-2019-08-27-at-11.03.05-am.png)
 
-### `npm run eject`
+### Team members assignments 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* [x] Investigating all courses. \(Dr.Todd and Neil\)
+  * [ ] Look for patterns.
+  * [ ] Tabulate patterns    
+* [x] Investigating Otago methods \(Lars\)
+  * [ ] Tabulate types of students.
+* [x] GitHub research practices \(Ali\)
+  * [ ] Research how Github can help?
+  * [ ] Tabulate
+  * [ ] Team training.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Tuesday 27-08-2019 
 
-## Learn More
+### 9:30am - 1pm
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Review GitBook, using it for our work space. \( Research Team\)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### BIT and CGI courses : \(Dr.Todd and Neil\)
 
-### Code Splitting
+1. CGI501 Prof Pract
+2. CGI502 3D Modelling 1
+3. CGI503 Rigging Animation 1
+4. CGI504 Dynamic Effects 1
+5. CGI505 Lighting and Post-production
+6. CGI506 Technical Development
+7. CGI507 CGI Project 1
+8. COM502
+9. CSA502\*
+10. DAT502
+11. DES501
+12. NET502 \*
+13. OSA501\*
+14. SDV503
+15. SDV502
+16. SYD502
+17. TEC501\*
+18. WEB502 F
+19. WEB503
+20. SCM501
+21. DAT601 Project MS 1,2,3
+22. DAT602 Project MS 1,2,3
+23. NET603 Pract Network development
+24. NET602 Network Management
+25. PFW601 Prof Writting
+26. SDV601 Mattias pattern
+27. SDV602 Project MS 1,2,3
+28. SEC602 
+29. SYD601
+30. WEB601 MS 1,2,3 
+31. MUV601 
+32. DAT701 
+33. NET701 
+34. NET702
+35. PRJ701 - project
+36. PRJ702 
+37. RES701
+38. SDV701 tiered SD
+39. SYD701
+40. WEB701
+41. INF755 Proj Man
+42. SEC701 Systems Sec
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+#### Setting up Gitbook for Research week \(Ali\) 
 
-### Analyzing the Bundle Size
+Getting Research team members on the Gitbook repo and getting the workflow documented and shared among others.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+#### GitHub research practices \(Ali\)
 
-### Making a Progressive Web App
+Created a new page for writing thesis as an example  with git and github.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+#### Types of student \(Lars\)
 
-### Advanced Configuration
+Created a page for personas based on previous case study by Otago University.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+Use of Github in Education 
 
-### Deployment
+### 2pm-4pm
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Team counting on with the giving tasks
 
-### `npm run build` fails to minify
+### 4pm-5:30pm 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### Team discussion/brainstorming 
+
+![](.gitbook/assets/screen-shot-2019-08-28-at-11.14.00-am.png)
+
+![](.gitbook/assets/screen-shot-2019-08-28-at-11.15.26-am.png)
+
