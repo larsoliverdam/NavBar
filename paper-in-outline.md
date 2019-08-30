@@ -30,7 +30,9 @@ In this  first stage of a Design Based Research into the integration of Git and 
 
 #### 1.2 Assessment and Delivery
 
-#### 1.3 GIT and LMSs \(?\)
+#### 1.3 GIT and GitHub
+
+Version control systems like Git combined with hosting services like GitHub are playing a vital role in the education of  universities and institutes students, With these both tools have evolved to serve the educational sector needs. Tutors in both spaces of class locally  and remotely can utilize and control a number of these technologies to distribute course materials and engage with their students, including tools such as Learning Management Systems\(LMS\) that are focused on education, other tools that can be created for different used in an educational context like social media platforms.
 
 #### 1.4 Summary of paper sections
 
@@ -50,7 +52,7 @@ Constructive alignment
 
 #### 2.2 Assessment and Delivery
 
-#### 2.3 GIT
+#### 2.3 GITHUB
 
 Summary of background, 
 
