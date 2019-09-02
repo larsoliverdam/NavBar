@@ -34,6 +34,8 @@ In this  first stage of a Design Based Research into the integration of Git and 
 
 Version control systems like Git combined with hosting services like GitHub are playing a vital role in the education of  universities and institutes students, With these both tools have evolved to serve the educational sector needs. Tutors in both spaces of class locally  and remotely can utilize and control a number of these technologies to distribute course materials and engage with their students, including tools such as Learning Management Systems\(LMS\) that are focused on education, other tools that can be created for different used in an educational context like social media platforms.
 
+Git is a key factor tool to manage asynchronous and distributed software workflow, also it’s an important component of managing  resources and teamwork  in any software development environment. \[\]This led to to a demand upon tutors and to introduce Git to software development students and to preparing them for their future work environment and that by including version control systems in the courses. Git will help students with their software projects by organizing their workflow, team work and assign any specific task to any member in team. 
+
 #### 1.4 Summary of paper sections
 
 ### 2. BACKGROUND
@@ -52,7 +54,7 @@ Constructive alignment
 
 #### 2.2 Assessment and Delivery
 
-#### 2.3 GIT
+#### 2.3 GITHUB
 
 Summary of background, 
 
