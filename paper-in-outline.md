@@ -78,7 +78,34 @@ Table showing a sample encoding
 
 #### 3.3 GIT survey 
 
-The training session  - collection of notes
+Notes from the training session:
+
+* Signing up for  a GitHub account for each user
+
+![https://github.com/join](.gitbook/assets/screen-shot-2019-09-03-at-8.42.07-am.png)
+
+*  Download and Install Git from the official website
+
+![https://git-scm.com/](.gitbook/assets/screen-shot-2019-09-03-at-8.44.05-am.png)
+
+* Then check a version of git on your computer/laptop by typing the following command:
+
+![Checking the download version of Git](.gitbook/assets/screen-shot-2019-09-03-at-8.47.49-am.png)
+
+* There are more than 20 commands in Git and we will list the top common ones here :
+  * git init :  will create an empty Git repo.
+  * git add . : will add a file contents to the index.
+  * git commit: will save/record changes to the repo.
+  * git push: It will update the remote refers by using using the local refs.
+  * git branch &lt;branch\_name&gt; : will create a local branch
+
+learning approaches\(Delivering process\) that was applied with using Git were they following:
+
+1. A student project/discussion  approach.
+2. A lecture/discussion approach.
+3. A lab/exercise approach.
+
+* In the training session we discussed also  the use of an automated testing system like Travis CI to create test cases that will help with evaluating students learning progress. \(Travis CI - Test and Deploy with Confidence. \(n.d.\). Retrieved September 3, 2019, from [https://travis-ci.com/](https://travis-ci.com/)\)
 
 ### 4. FINDINGS AND DISCUSSION
 
