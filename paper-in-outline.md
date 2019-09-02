@@ -56,7 +56,9 @@ Constructive alignment
 
 #### 2.3 GITHUB
 
-Summary of background, 
+Github started originally as a social and workspace platform for software developers with tools that increase the collaboration between them. This platform is an encouragement to share their script work and also to give  feedback and support that can improve the work of others. So the base purpose for GitHub was for software developers but recently another use of the platform has emerged and to be more specific GitHub is being used and still using in education as a Learning Management System \(LMS\). The collaborative environment can be exploited in many ways in a course. 
+
+According to its website, Git is a free open source version control system, clamming that’s easy to adopt and learn. It has a lighting fast performance and features that include branching, staging, allows multiply workflows and many more. Git was termed “the information manager from hell” by its creator, but although giving such a term to open source version control system there is no doubt that from Git is a well-engineered \(VCS\) what is capable of supporting  worldwide developers of software on a large scale. 
 
 ### 3. METHOD
 
